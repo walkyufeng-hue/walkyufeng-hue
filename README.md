@@ -3,7 +3,9 @@
 **English** · [中文](README.zh-CN.md)
 
 <!-- Personal-site launch point: wrap the image below in the final site URL when it is ready. -->
-![Chen Yu AI Product Manager terminal profile](https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg" width="100%" alt="Chen Yu AI Product Manager terminal profile">
+</p>
 
 <p align="center"><sub>Personal site in progress · this terminal will become the entrance when it launches</sub></p>
 

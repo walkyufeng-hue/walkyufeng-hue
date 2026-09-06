@@ -3,7 +3,9 @@
 [English](README.md) · **中文**
 
 <!-- 个人站上线后，只需给下面的图片外层补上正式站点链接。 -->
-![陈煜 AI 产品经理终端式个人介绍](https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg" width="100%" alt="陈煜 AI 产品经理终端式个人介绍">
+</p>
 
 <p align="center"><sub>个人站建设中 · 正式上线后这里将作为入口</sub></p>
 
