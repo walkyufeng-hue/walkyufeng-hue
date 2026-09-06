@@ -1,40 +1,40 @@
-<a id="english"></a>
+<一个ID=“英语”></一个>
 
-# Hi, I'm Chen Yu 👋
+#Hi, I'm Chen Yu 👋
 
-[![Click to open Chen Yu's writing page](https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg)](https://www.woshipm.com/u/1676781)
+[![点击打开陈宇的写作页面](https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg)](https://www.woshipm.com/u/1676781)
 
-<p align="center"><sub>Click the Clear Light terminal to open my writing page</sub></p>
+<p对齐=“中心”><子>点击Clear Light终端打开我的写作页面</子></p>
 
-I am an AI Product Manager with five years of product experience.  
-For the past three years, I have focused on enterprise AI applications.  
-I work from business research and scenario evaluation through MVP scoping, RAG and Agent Workflow design.  
-I also build evaluation loops, guardrails, and human handoffs for reliable delivery.  
-I care about accurate outputs, measurable value, and AI products people can use with confidence.
+我是一名人工智能产品经理，拥有五年的产品经验。  
+过去三年，我主要关注企业人工智能应用。  
+我的工作范围包括业务研究和场景评估、MVP 范围界定、RAG 和代理工作流程设计。  
+我还构建评估循环、护栏和人工交接以实现可靠的交付。  
+我关心准确的输出、可衡量的价值以及人们可以放心使用的人工智能产品。
 
-✍️ [Writing](https://www.woshipm.com/u/1676781) · 🧑‍💻 [GitHub](https://github.com/walkyufeng-hue) · ✉️ [Email](mailto:walkyufeng@gmail.com)
-
----
-
-## ⭐ Featured projects
-
-Products and tools built around real problems and testable outcomes.
-
-🌋 [**Volcano Dream AI**](https://github.com/walkyufeng-hue/Volcano-Dream)  
-A multimodal AI product for dream interpretation and visual generation.  
-Combines structured streaming analysis with custom artwork, local history, and cost controls.
-
-🖥️ [**Volcano Assistant**](https://github.com/walkyufeng-hue/CY-Pro-Notch)  
-A native macOS productivity center built into the MacBook notch.  
-Brings together app launching, clipboard history, AI chat, notes, and agent alerts.
-
-🎨 [**Xiaoyu Illustrations**](https://github.com/walkyufeng-hue/xiaoyu-illustrations)  
-A reusable Codex skill for illustrating Chinese long-form content.  
-Turns ideas, processes, and metaphors into consistent watercolor-style visuals.
+✍️ [写作](https://www.woshipm.com/u/1676781) · 🧑‍💻(https://github.com/walkyufeng-hue· ✉️[电子邮件](mailto:walkyufeng@gmail.com)
 
 ---
 
-## ✍️ Writing
+##⭐ 特色项目
+
+围绕实际问题和可测试结果构建的产品和工具。
+
+🌋 [**火山梦AI**](https://github.com/walkyufeng-hue/Volcano-Dream)  
+用于梦境解析和视觉生成的多模态人工智能产品。  
+将结构化流分析与自定义艺术品、本地历史和成本控制相结合。
+
+🖥️ [**火山助手**](https://github.com/walkyufeng-hue/CY-Pro-Notch)  
+内置于 MacBook 缺口中的原生 macOS 生产力中心。  
+汇集应用程序启动、剪贴板历史记录、AI 聊天、注释和代理警报。
+
+🎨 [**小宇插图**](https://github.com/walkyufeng-hue/xiaoyu-illustrations)  
+一种可重复使用的 Codex 技能，用于说明中文长格式内容。  
+将想法、过程和隐喻转化为一致的水彩风格视觉效果。
+
+---
+
+##✍️写作
 
 I write about AI product judgment and how model capabilities become reliable product systems.
 
