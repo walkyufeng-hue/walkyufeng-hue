@@ -8,11 +8,11 @@
 
 <p align="center"><sub>Click the terminal to launch my personal website</sub></p>
 
-I'm an AI Product Manager.<br>
+I'm an AI Product Manager focused on enterprise AI and AIGC tools.<br>
 I have five years in product, with nearly three in enterprise AI.<br>
-I build AI products, tools, and reusable skills.<br>
-I work across MVP design, RAG, and Agent Workflows.<br>
-My focus is reliable delivery and measurable value.
+I design AIGC workflows for copy, visuals, and video.<br>
+I connect content generation, RAG, and Agent Workflows with human review.<br>
+My focus is usable output, reliable delivery, and measurable value.
 
 ✍️ [Writing](https://www.woshipm.com/u/1676781) · ✉️ [Email](mailto:walkyufeng@gmail.com)
 
@@ -57,7 +57,17 @@ I write about AI product decisions and reliable delivery.
 - AI Product Manager
 - Five years of product experience
 - Nearly three years in enterprise AI
-- MVP · RAG · Agent Workflow · AI evaluation
+
+### Core capabilities
+
+- Product discovery · Scenario validation, MVP scope & prioritization
+- AIGC production · Copy, visuals, video & asset adaptation
+- RAG · Knowledge governance, hybrid retrieval & source traceability
+- Agent Workflows · Node design, reusable skills & human review
+- Reliability · Guardrails, failure retries & human handoff
+- Model evaluation · Quality, usability, latency & cost
+- Product delivery · Prototyping, acceptance testing & launch
+- Iteration · Prompt refinement, bad-case analysis & regression testing
 
 ---
 
