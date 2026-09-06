@@ -8,11 +8,11 @@
 
 <p align="center"><sub>Click the terminal to launch my personal website.</sub></p>
 
-I am an AI Product Manager with five years of product experience. For the past three years, I have focused on enterprise AI applications.
-
-I work from business research and scenario evaluation through MVP scoping, RAG and Agent Workflow design. I also build evaluation loops, guardrails, and human handoffs for reliable delivery.
-
-I care about accurate outputs, measurable value, and AI products people can use with confidence.
+I'm an AI Product Manager.<br>
+I have five years in product, with nearly three in enterprise AI.<br>
+I build AI products, tools, and reusable skills.<br>
+I work across MVP design, RAG, and Agent Workflows.<br>
+My focus is reliable delivery and measurable value.
 
 ✍️ [Writing](https://www.woshipm.com/u/1676781) · ✉️ [Email](mailto:walkyufeng@gmail.com)
 
@@ -20,25 +20,31 @@ I care about accurate outputs, measurable value, and AI products people can use 
 
 ## ⭐ Featured projects
 
-Products and tools built around real problems and testable outcomes.
+Products and tools built around real needs.
 
 🌋 [**Volcano Dream AI**](https://github.com/walkyufeng-hue/Volcano-Dream)
 
-A multimodal AI product for dream interpretation and visual generation, combining structured streaming analysis with custom artwork, local history, and cost controls.
+Turn dreams into interpretations and visuals.<br>
+Structured streaming analysis and custom artwork.<br>
+Local history and cost controls.
 
 🖥️ [**Volcano Assistant**](https://github.com/walkyufeng-hue/CY-Pro-Notch)
 
-A native macOS productivity center built into the MacBook notch, bringing together app launching, clipboard history, AI chat, notes, and agent alerts.
+A local-first productivity workspace for the MacBook notch.<br>
+App launching, clipboard history, and AI chat.<br>
+Quick notes and agent alerts.
 
 🎨 [**Xiaoyu Illustrations**](https://github.com/walkyufeng-hue/xiaoyu-illustrations)
 
-A reusable Codex skill for illustrating Chinese long-form content, turning ideas, processes, and metaphors into consistent watercolor-style visuals.
+A reusable Codex skill for Chinese long-form illustrations.<br>
+Turn ideas, workflows, and metaphors into hand-drawn visuals.<br>
+Keep a consistent watercolor sketch style.
 
 ---
 
 ## ✍️ Writing
 
-I write about AI product judgment and how model capabilities become reliable product systems.
+I write about AI product decisions and reliable delivery.
 
 - [当实现不再稀缺，AI PM 靠什么活下去？](https://www.woshipm.com/pmd/6425789.html)
 - [Agent 元年第 500 天，9 条给 AI PM 的提醒：GUI 没有消失，但“人肉传送带”正在退场](https://www.woshipm.com/ai/6428033.html)
@@ -48,9 +54,10 @@ I write about AI product judgment and how model capabilities become reliable pro
 
 ## About
 
-- AI Product Manager focused on enterprise AI applications and AIGC production tools
-- Five years of product experience, including nearly three years in enterprise AI
-- Strengths in scenario evaluation, MVP design, RAG, Agent Workflow, and AI evaluation
+- AI Product Manager
+- Five years of product experience
+- Nearly three years in enterprise AI
+- MVP · RAG · Agent Workflow · AI evaluation
 
 ---
 
