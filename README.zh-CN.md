@@ -1,7 +1,5 @@
 # 你好，我是陈煜 👋
 
-[English](README.md) · **中文**
-
 <!-- 个人站上线后，只需给下面的图片外层补上正式站点链接。 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg" width="100%" alt="陈煜 AI 产品经理终端式个人介绍">
@@ -17,7 +15,7 @@
 
 关注 AI 输出准确性、人机协同，以及最终能否形成可衡量的业务价值。
 
-🌐 个人站（建设中） · ✍️ [写作主页](https://www.woshipm.com/u/1676781) · 🧑‍💻 [GitHub](https://github.com/walkyufeng-hue) · ✉️ [邮箱](mailto:walkyufeng@gmail.com)
+✍️ [写作主页](https://www.woshipm.com/u/1676781) · ✉️ [邮箱](mailto:walkyufeng@gmail.com)
 
 ---
 
@@ -53,7 +51,6 @@
 
 - AI 产品经理，方向为企业 AI 应用与 AIGC 生产工具
 - 5 年产品经验，近 3 年聚焦企业 AI 应用落地
-- 计算机科学与技术本科
 - 擅长场景判断、MVP 规划、RAG、Agent Workflow 与 AI 评测
 
 ---

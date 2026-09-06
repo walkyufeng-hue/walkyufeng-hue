@@ -1,7 +1,5 @@
 # Hi, I'm Chen Yu 👋
 
-**English** · [中文](README.zh-CN.md)
-
 <!-- Personal-site launch point: wrap the image below in the final site URL when it is ready. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg" width="100%" alt="Chen Yu AI Product Manager terminal profile">
@@ -15,7 +13,7 @@ I work from business research and scenario evaluation through MVP scoping, RAG a
 
 I care about accurate outputs, measurable value, and AI products people can use with confidence.
 
-🌐 Personal site — building · ✍️ [Writing](https://www.woshipm.com/u/1676781) · 🧑‍💻 [GitHub](https://github.com/walkyufeng-hue) · ✉️ [Email](mailto:walkyufeng@gmail.com)
+✍️ [Writing](https://www.woshipm.com/u/1676781) · ✉️ [Email](mailto:walkyufeng@gmail.com)
 
 ---
 
@@ -51,7 +49,6 @@ I write about AI product judgment and how model capabilities become reliable pro
 
 - AI Product Manager focused on enterprise AI applications and AIGC production tools
 - Five years of product experience, including nearly three years in enterprise AI
-- B.S. in Computer Science and Technology
 - Strengths in scenario evaluation, MVP design, RAG, Agent Workflow, and AI evaluation
 
 ---
