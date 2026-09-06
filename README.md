@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://walkyufeng-hue.github.io/">
-    <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/9ebae8f80a24385ab50993ec7664088cf3ca5003/assets/portfolio-launch.svg" width="100%" alt="点击进入陈煜的 AI 产品经理个人站">
+    <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/32b07802e430266ae16240e5d451222f41cc4950/assets/portfolio-launch.svg" width="100%" alt="点击进入陈煜的 AI 产品经理个人站">
   </a>
 </p>
 
