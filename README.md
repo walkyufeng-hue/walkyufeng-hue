@@ -36,7 +36,7 @@
 
 ##✍️写作
 
-I write about AI product judgment and how model capabilities become reliable product systems.
+我写的是人工智能产品判断以及模型功能如何成为可靠的产品系统。
 
 - [当实现不再稀缺，AI PM 靠什么活下去？](https://www.woshipm.com/pmd/6425789.html)
 - [Agent 元年第 500 天，9 条给 AI PM 的提醒：GUI 没有消失，但“人肉传送带”正在退场](https://www.woshipm.com/ai/6428033.html)
@@ -44,13 +44,12 @@ I write about AI product judgment and how model capabilities become reliable pro
 
 ---
 
-## About
+##关于
 
-- AI Product Manager focused on enterprise AI applications and AIGC production tools
-- Five years of product experience, including nearly three years in enterprise AI
-- B.S. in Computer Science and Technology
-- Strengths in scenario evaluation, MVP design, RAG, Agent workflows, and AI evaluation
+-AI产品经理专注于企业AI应用和AIGC生产工具
+-五年产品经验，其中近三年企业AI经验
+-场景评估、MVP 设计、RAG、Agent 工作流程和 AI 评估方面的优势
 
 ---
 
-<!-- Visual presentation adapted from https://github.com/HiWhaleW/HiWhaleW. -->
+<!-- 视觉演示改编自 https://github.com/HiWhaleW/HiWhaleW。 -->
