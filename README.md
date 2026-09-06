@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"><sub>Click the terminal to launch my personal website.</sub></p>
+<p align="center"><sub>Click the terminal to launch my personal website</sub></p>
 
 I'm an AI Product Manager.<br>
 I have five years in product, with nearly three in enterprise AI.<br>
