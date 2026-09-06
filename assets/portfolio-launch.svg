@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
   <title id="title">Chen Yu OS Clear Light personal site status</title>
-  <desc id="desc">Terminal-style introduction for Chen Yu with a personal site currently in progress</desc>
+  <desc id="desc">Terminal-style entrance to Chen Yu's published personal site</desc>
   <style>
     :root { color-scheme: light; }
     .window { fill: #f8fafb; stroke: #d8e0e7; stroke-width: 2; }
@@ -69,9 +69,9 @@
   <text class="mono prompt line l6" x="54" y="267">chenyu@product-lab ~ % <tspan class="body">whoami</tspan></text>
   <text class="mono body line l7" x="54" y="298">陈煜 · AI Product Manager</text>
 
-  <text class="mono prompt line l8" x="54" y="346">chenyu@product-lab ~ % <tspan class="body">build personal.site</tspan></text>
+  <text class="mono prompt line l8" x="54" y="346">chenyu@product-lab ~ % <tspan class="body">open chenyu.os</tspan></text>
 
-  <text class="mono ready" x="54" y="389">PORTFOLIO BUILDING</text>
-  <text class="mono cta" x="500" y="448" text-anchor="middle">PERSONAL SITE · COMING SOON</text>
+  <text class="mono ready" x="54" y="389">SYSTEM READY</text>
+  <text class="mono cta" x="500" y="448" text-anchor="middle">CLICK TO EXPLORE · CHEN YU</text>
   <text class="mono arrow" x="500" y="483" text-anchor="middle">→</text>
 </svg>

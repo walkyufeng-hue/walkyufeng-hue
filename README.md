@@ -1,11 +1,12 @@
 # Hi, I'm Chen Yu 👋
 
-<!-- Personal-site launch point: wrap the image below in the final site URL when it is ready. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg" width="100%" alt="Chen Yu AI Product Manager terminal profile">
+  <a href="https://walkyufeng-hue.github.io/">
+    <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg" width="100%" alt="Open Chen Yu's AI Product Manager portfolio">
+  </a>
 </p>
 
-<p align="center"><sub>Personal site in progress · this terminal will become the entrance when it launches</sub></p>
+<p align="center"><sub>Click the terminal to explore my personal site</sub></p>
 
 I am an AI Product Manager with five years of product experience. For the past three years, I have focused on enterprise AI applications.
 
