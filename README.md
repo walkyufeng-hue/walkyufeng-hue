@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://walkyufeng-hue.github.io/">
-    <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/main/assets/portfolio-launch.svg" width="100%" alt="Open Chen Yu's AI Product Manager portfolio">
+    <img src="https://raw.githubusercontent.com/walkyufeng-hue/walkyufeng-hue/53851416a3e32a4024eb0081a262a3b9c0d42339/assets/portfolio-launch.svg" width="100%" alt="点击进入陈煜的 AI 产品经理个人站">
   </a>
 </p>
 
-<p align="center"><sub>Click the terminal to explore my personal site</sub></p>
+<p align="center"><sub>点击终端，进入我的个人站</sub></p>
 
 I am an AI Product Manager with five years of product experience. For the past three years, I have focused on enterprise AI applications.
 
