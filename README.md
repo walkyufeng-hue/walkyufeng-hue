@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"><sub>点击终端，进入我的个人站</sub></p>
+<p align="center"><sub>Click the terminal to launch my personal website.</sub></p>
 
 I am an AI Product Manager with five years of product experience. For the past three years, I have focused on enterprise AI applications.
 
