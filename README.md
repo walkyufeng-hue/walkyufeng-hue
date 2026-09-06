@@ -12,7 +12,7 @@
 我还构建评估循环、护栏和人工交接以实现可靠的交付。  
 我关心准确的输出、可衡量的价值以及人们可以放心使用的人工智能产品。
 
-✍️ [写作](https://www.woshipm.com/u/1676781) · 🧑‍💻(https://github.com/walkyufeng-hue· ✉️[电子邮件](mailto:walkyufeng@gmail.com)
+✍️ [写作](https://www.woshipm.com/u/1676781)· ✉️[电子邮件](mailto:walkyufeng@gmail.com)
 
 ---
 
