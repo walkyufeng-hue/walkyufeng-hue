@@ -9,21 +9,22 @@
     .mono { font-family: "Fira Code", "SFMono-Regular", Menlo, Consolas, "PingFang SC", "Microsoft YaHei", monospace; }
     .title { fill: #526273; font-size: 20px; font-weight: 600; }
     .meta { fill: #8b99a8; font-size: 12px; letter-spacing: .8px; }
-    .line { animation: reveal .28s ease both; }
-    .l1 { animation-delay: .1s; }
-    .l2 { animation-delay: .28s; }
-    .l3 { animation-delay: .46s; }
-    .l4 { animation-delay: .64s; }
-    .l5 { animation-delay: .82s; }
-    .l6 { animation-delay: 1s; }
-    .l7 { animation-delay: 1.24s; }
-    .l8 { animation-delay: 1.4s; }
-    .l9 { animation-delay: 1.64s; }
-    .l10 { animation-delay: 1.8s; }
-    .l11 { animation-delay: 2.08s; }
-    .l12 { animation-delay: 2.38s; }
-    .l13 { animation-delay: 2.76s; }
-    .l14 { animation-delay: 3.04s; }
+    /* One shared 10s timeline: reveal by 3.5s, hold until 8.5s,
+       fade out by 9s, then restart. No delayed lines leak into the next cycle. */
+    .line { animation: line1 10s ease infinite both; }
+    .l2 { animation-name: line2; }
+    .l3 { animation-name: line3; }
+    .l4 { animation-name: line4; }
+    .l5 { animation-name: line5; }
+    .l6 { animation-name: line6; }
+    .l7 { animation-name: line7; }
+    .l8 { animation-name: line8; }
+    .l9 { animation-name: line9; }
+    .l10 { animation-name: line10; }
+    .l11 { animation-name: line11; }
+    .l12 { animation-name: line12; }
+    .l13 { animation-name: line13; }
+    .l14 { animation-name: line14; }
     .log { fill: #82909e; font-size: 18px; }
     .body { fill: #536273; font-size: 19px; }
     .prompt { fill: #2e75e8; font-size: 19px; font-weight: 600; }
@@ -32,13 +33,27 @@
     .initializing { fill: #2e75e8; font-size: 18px; }
     .ready { fill: #33b879; font-size: 20px; font-weight: 700; letter-spacing: 2px; }
     .cta { fill: #6f7e8e; font-size: 15px; letter-spacing: 2px; }
-    .arrow { fill: none; stroke: #2e75e8; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
-    @keyframes reveal {
-      from { opacity: 0; transform: translateY(3px); }
-      to { opacity: 1; transform: translateY(0); }
+    .arrow { fill: none; stroke: #2e75e8; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; animation: arrowDrift 1.8s ease-in-out infinite; }
+    @keyframes line1 { 0%, 1% { opacity: 0; } 4%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line2 { 0%, 3% { opacity: 0; } 6%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line3 { 0%, 5% { opacity: 0; } 8%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line4 { 0%, 7% { opacity: 0; } 10%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line5 { 0%, 9% { opacity: 0; } 12%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line6 { 0%, 11% { opacity: 0; } 14%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line7 { 0%, 14% { opacity: 0; } 17%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line8 { 0%, 16% { opacity: 0; } 19%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line9 { 0%, 19% { opacity: 0; } 22%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line10 { 0%, 21% { opacity: 0; } 24%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line11 { 0%, 24% { opacity: 0; } 27%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line12 { 0%, 27% { opacity: 0; } 30%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line13 { 0%, 30% { opacity: 0; } 33%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes line14 { 0%, 32% { opacity: 0; } 35%, 85% { opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes arrowDrift {
+      0%, 100% { opacity: .3; transform: translateX(-4px); }
+      50% { opacity: 1; transform: translateX(4px); }
     }
     @media (prefers-reduced-motion: reduce) {
-      .line { animation: none; }
+      .line, .arrow { animation: none; opacity: 1; transform: none; }
     }
   </style>
 
@@ -68,7 +83,7 @@
   <text class="mono initializing line l12" x="54" y="469">&gt; Initializing personal operating system…</text>
   <text class="mono ready line l13" x="54" y="501">SYSTEM READY</text>
   <g class="line l14">
-    <text class="mono cta" x="500" y="553" text-anchor="middle">Click to Launch</text>
-    <path class="arrow" d="M500 573v18m-7-7 7 7 7-7"/>
+    <text class="mono cta" x="500" y="553" text-anchor="middle">CLICK TO LAUNCH · Chen Yu</text>
+    <path class="arrow" d="M491 582h18m-7-7 7 7-7 7"/>
   </g>
 </svg>
