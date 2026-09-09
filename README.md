@@ -34,6 +34,12 @@ A local-first productivity workspace for the MacBook notch.<br>
 App launching, clipboard history, and AI chat.<br>
 Quick notes and agent alerts.
 
+🧰 [**VolcBox — Figma Toolbox**](https://github.com/walkyufeng-hue/Figma-VolcBox)
+
+A Figma plugin for everyday design workflows.<br>
+AI translation, batch data fill, image compression, and color tools.<br>
+Batch export and cross-device settings sync.
+
 🎨 [**Xiaoyu Illustrations**](https://github.com/walkyufeng-hue/xiaoyu-illustrations)
 
 A reusable Codex skill for Chinese long-form illustrations.<br>

@@ -31,6 +31,12 @@
 
 把 MacBook 刘海变成原生 macOS 效率中心，集成 App 启动、剪贴板历史、AI 闪问、灵感记录与 Agent 提醒。
 
+🧰 [**VolcBox — Figma 提效工具箱**](https://github.com/walkyufeng-hue/Figma-VolcBox)
+
+面向日常设计工作的一站式 Figma 插件。<br>
+集成 AI 翻译、批量数据填充、图片压缩与全局调色。<br>
+支持快捷导出与跨设备配置同步。
+
 🎨 [**小玉淡彩手绘正文配图**](https://github.com/walkyufeng-hue/xiaoyu-illustrations)
 
 面向中文长文的可复用 Codex Skill，把文章中的判断、流程与隐喻转成风格一致的淡彩手绘配图。
